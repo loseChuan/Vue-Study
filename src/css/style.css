@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body,
+#app,
+.Ada {
+  width: 100%;
+  height: 100%;
+}
+
+.Ada {
+  display: flex;
+}
+
+.Block_w50 {
+  display: inline-flex;
+  width: 50%;
+  height: 10px;
+  border: 1px solid #000;
+}
